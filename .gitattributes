@@ -1,0 +1,2 @@
+RiotGamesApi.dll.c filter=lfs diff=lfs merge=lfs -text
+vgk.sys.c filter=lfs diff=lfs merge=lfs -text
